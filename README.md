@@ -1,4 +1,4 @@
-# # Title [How to Choice a Good Title?](https://www.nature.com/articles/s41562-021-01152-2)
+# # Title [PS2](https://www.nature.com/articles/s41562-021-01152-2)
 ## Project information
 - **Author**: Molly Yu, Econ, 2023, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
