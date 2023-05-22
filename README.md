@@ -1,56 +1,22 @@
 # # Title [How to Choice a Good Title?](https://www.nature.com/articles/s41562-021-01152-2)
 ## Project information
-- **Author**: Molly Yu, [Major], [Class], Duke Kunshan University
+- **Author**: Molly Yu, Econ, 2023, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: Submissions to the Problem Set No. or Final Project for [COMPSCI/ECON 206 Computational Microeconomics, 2023 Spring (Seven Week - Second)](https://ce.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
-- **Acknowledgments**: [How to Acknowledge?](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
-[notes: please include all professors, students, and staff who have contributed to your completetion of the project.]
-- **Project Summary**: 
-  - [Summarize the Background/Motivation]
-  - [Research Questions]
-  - [Application Scenario]
-  - [Methodology]
-  - [Results]
-  - [Intellectual Merits and Practical impacts of your project.]
-  
-   
-Note: please insert the screenshot of the answers to your research question by ChatGPT. The methodology that you use to address the research questions must be more innovative than both the current literature and ChatGPT. 
 
-## Table of Contents
+- **Project Structure**: 
+ The project consist of two parts. The first part is the general knowledge of game theory. The second part is colob part, using code to solve the nash equilibrium for normal form games and explore the strategy and extreme equilibrium for extensive games.
 
-- model
-- code
-- spotlight
-- more about the author
-- references
-
-### Model
-- Game Environment
-- Solution Concept
-- Evaluations: e.g. efficiency and fairness
-
-### Code
-- Game Environment
-- Strategic plays
-- Equilibruim Evaluations: e.g. belief, strategy, and payoffs
-- oTree Experimental Code 
 
 
 ### Spotlight
-- Posters
-- Figures
-- Slides
-- Presentations
-- Review articles
-- Media appearance
+Here is the link of my selfintroduction and refleciton on history and terms on game theory on Overleaf.https://www.overleaf.com/project/6455c7f26baaf04c264c426c
 
 ### More about the Author
 - headshot
+![]()
 - self-introduction
-- Final reflections 
-  - intellectual growth
-  - professional growth
-  - living a purposeful life
+Senior at Duke Kunshan Univirsity, has an interest in econ, finance, behavior science. Now trying hard to learn CS.
 
 ### References
 
